@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on: Polishing my Food Ordering Website and adding real-time features to my Task Management System.<br><br>👯 I’m looking to collaborate on: Open-source React.js projects or any cool Python/Django web apps or Full stack web development.<br><br>🤝 I’m looking for help with: Understanding AWS Lambda and deploying full-stack apps to the cloud<br><br>🌱 I’m currently learning: The Django framework and AWS Cloud Fundamentals.<br><br>💬 Ask me about: React.js, PHP, MySQL, or how I maintained an 8.45 CGPA while building my projects.<br><br>⚡ Fun fact: I can spend hours perfecting a database schema—and I actually find it relaxing!
+🔭 I’m currently working on: Polishing my Food Ordering Website and adding real-time features to my AI_Job_Tracker project.<br><br>👯 I’m looking to collaborate on: Open-source React.js projects or any cool Python/Django web apps or Full stack web development.<br><br>🤝 I’m looking for help with: Understanding AWS Lambda and deploying full-stack apps to the cloud<br><br>🌱 I’m currently learning: The Django framework and AWS Cloud Fundamentals.<br><br>💬 Ask me about: React.js, PHP, MySQL, or how I maintained an 8.45 CGPA while building my projects.<br><br>⚡ Fun fact: I can spend hours perfecting a database schema—and I actually find it relaxing!
 
 
 ## 🌐 Socials:
